@@ -1,0 +1,1 @@
+wget https://github.com/Beeppool/miner/releases/download/0.6.0/beepminer-0.6.0.zip && unzip beepminer-0.6.0.zip && cd beepminer-0.6.0 && ./miner --wallet-address="NQ04XQKN5DCPK07P0BR8X0SJG3YRBK4USUKK" --pool="pool.nimiq.watch:8443" --protocol="dumb" --miner="1" --architecture="ryzen"
